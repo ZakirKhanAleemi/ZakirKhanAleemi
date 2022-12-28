@@ -12,8 +12,7 @@ I am an Analyst and Engineer by profession. Apart from that I am ML developer th
 
 - any collobration work,
 - machine learning projects(development or research)
-
---->
+<!---
 - 👋 Hi, I’m @ZakirKhanAleemi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -21,4 +20,4 @@ I am an Analyst and Engineer by profession. Apart from that I am ML developer th
 - 📫 How to reach me ...
 ZakirKhanAleemi/ZakirKhanAleemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-<!---
+--->
