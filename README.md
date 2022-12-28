@@ -1,9 +1,10 @@
+--->
 - 👋 Hi, I’m @ZakirKhanAleemi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+--->
 <!---
 ZakirKhanAleemi/ZakirKhanAleemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -25,6 +26,7 @@ I am an Analyst and Engineer by profession. Apart from that I am ML developer th
 - machine learning projects(development or research)
 
 <!---
+--->
 **Recent Update**:
 - **August 2022**: Our paper _Anomaly Detection in Healthcare_ has been accepted for publication at the 11th International Conference on Health Information Science 2022 (HIS 2022).
 - **July 2022**: Our paper _sGrid++ : Revising Simple Grid based Density Estimator for Mining Outlying Aspect_ has been accepted for publication at the 23rd International Conference on Web Information Systems Engineering 2022 (WISE 2022).
