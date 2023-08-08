@@ -1,6 +1,8 @@
-# Zakir - Bridging the Gap Between Analysis, Engineering, and Machine Learning 🚀
+# Zakir 
 
-👋 Greetings, I'm Zakir – an Analytical Engineer on a relentless pursuit of innovation. My journey intertwines the realms of analysis, engineering, and cutting-edge Machine Learning, all while contributing fervently to the tech community.
+- Bridging the Gap Between Analysis, Engineering, and Machine Learning 🚀
+
+👋 Greetings, I'm an Analytical Engineer on a relentless pursuit of innovation. My journey intertwines the realms of analysis, engineering, and cutting-edge Machine Learning, all while contributing fervently to the tech community.
 
 ## Exploring Boundless Horizons
 
