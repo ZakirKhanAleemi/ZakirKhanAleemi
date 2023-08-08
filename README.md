@@ -37,6 +37,6 @@ If you're interested in:
 
 Let's embark on a journey of synergistic innovation! 🌟
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ZakirKhanAleemi) | Follow me on [Twitter](https://twitter.com/zakibaba) | Explore my world at [yourwebsite.com](https://zakirkhanaleemi.github.io/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ZakirKhanAleemi) | Follow me on [Twitter](https://twitter.com/zakibaba) | Explore my world at [zakir.com](https://zakirkhanaleemi.github.io/)
 
 ---
