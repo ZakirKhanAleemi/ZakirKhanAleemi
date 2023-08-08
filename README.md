@@ -1,13 +1,18 @@
 ### Hi there, I'm [Zakir](https://zakirkhanaleemi.github.io) 👋
 
-I am an Analyst and Engineer by profession. Apart from that I am ML developer that loves writing articles (on Machine Learning and Data Science) and contributing to open source.
+I am an Analyst and Engineer by profession. Apart from that I am ML developer that loves research about emerging technologies (on Machine Learning and Data Science) and contributing to community.
 
 **My Reseach Interest**:
-- Deepfakes
 - GANs
 - NLP
 - Transformers
-- 
+- Learning Analytics
+- Computer Vision
+- Multimodal Machine Learning
+- Deepfake Detection
+- Diffusion Models
+
+
  **I am open to**:
 
 - any collobration work,
